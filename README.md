@@ -32,7 +32,7 @@ Miracle is a Part-time Media Strategist and a budding Software Developer with a 
       <a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3.svg?logo=bootstrap&logoColor=white"></a>
       <a href="#"><img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub%20Actions-2671E5.svg?logo=github%20actions&logoColor=white"></a>
       <a href="#"><img alt="Wordpress" src="https://img.shields.io/badge/Wordpress-21759B?logo=wordpress&logoColor=white"></a>
-      <a href="#"><img alt="React" src="https://img.shields.io/badge/React-black?logo=react&logoColor=green"></a>
+      <a href="#"><img alt="React" src="https://img.shields.io/badge/React-green?logo=react&logoColor=white"></a>
   </p>
 
   <h3>Databases and Cloud Hosting</h3>
