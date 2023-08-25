@@ -2,6 +2,13 @@
 
 **`Digital Craftsman (Budding Software Developer, & Media Strategist)`**
 
+<style> 
+ body {
+    color: red;
+ }
+</style>
+
+
 Part-time Media Strategist and a budding Software Developer with a passion for digital innovation and creative marketing strategies. My journey into the world of software development started with a curiosity for technology and a desire to bring my ideas to life. I am constantly learning and exploring various programming languages and frameworks to build innovative and user-friendly applications. From front-end web development to back-end systems, I relish the challenge of turning complex problems into elegant solutions. You can reach me via mail 📩 <a href="mailto:mo.ukeje@gmail.com? subject=subject text" style="a {colour: hotpink;}">Miracle Ukeje</a>
    <p align="left">
       <a href="https://github.com/ukejescript?tab=followers">
@@ -9,7 +16,6 @@ Part-time Media Strategist and a budding Software Developer with a passion for d
       <a href="https://github.com/ukejescript?tab=repositories&sort=stargazers">
          <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/ukejescript?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
    </p>
-
 
   <h2>My Favorite Tools</h2>
   <!-- Some badges are from https://github.com/Ileriayo/markdown-badges -->
