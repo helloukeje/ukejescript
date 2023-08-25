@@ -1,6 +1,6 @@
-# 👨🏾‍💻 Miracle Ukeje
+#👨🏾‍💻 Miracle Ukeje
 
-**`Digital Craftsman (Budding Software Developer, & Media Strategist)`**
+<p align="center">**`Digital Craftsman (Budding Software Developer, & Media Strategist)`**</p>
 
 
 <p align="center">
