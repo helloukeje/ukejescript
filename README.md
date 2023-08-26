@@ -3,7 +3,7 @@
 **`Digital Craftsman (Budding Software Developer, & Media Strategist)`**
 
 
-Part-time Media Strategist and a budding Software Developer with a passion for digital innovation and creative marketing strategies. My journey into the world of software development started with a curiosity for technology and a desire to bring my ideas to life. I am constantly learning and exploring various programming languages and frameworks to build innovative and user-friendly applications. From front-end web development to back-end systems, I relish the challenge of turning complex problems into elegant solutions. You can reach me via mail 👉🏽 <a href="mailto:mo.ukeje@gmail.com? subject=subject text" color="green">Miracle Ukeje</a>
+Part-time Media Strategist and a budding Software Developer with a passion for digital innovation and creative marketing strategies. My journey into the world of software development started with a curiosity for technology and a desire to bring my ideas to life. I am constantly learning and exploring various programming languages and frameworks to build innovative and user-friendly applications. From front-end web development to back-end systems, I relish the challenge of turning complex problems into elegant solutions. You can reach me via mail 👉🏽 <a href="mailto:mo.ukeje@gmail.com? subject=subject text">Miracle Ukeje</a>
 
 
    <p align="left"> 
@@ -34,7 +34,7 @@ Part-time Media Strategist and a budding Software Developer with a passion for d
       <a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3.svg?logo=bootstrap&logoColor=white"></a>
       <a href="#"><img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub%20Actions-2671E5.svg?logo=github%20actions&logoColor=white"></a>
       <a href="#"><img alt="Wordpress" src="https://img.shields.io/badge/Wordpress-21759B?logo=wordpress&logoColor=white"></a>
-      <a href="#"><img alt="React" src="https://img.shields.io/badge/React-green?logo=react&logoColor=white"></a>
+      <a href="#"><img alt="React" src="https://img.shields.io/badge/React-55960?logo=react&logoColor=white"></a>
   </p>
 
   <h3>Databases and Cloud Hosting</h3>
