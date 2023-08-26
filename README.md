@@ -41,6 +41,7 @@ Part-time Media Strategist and a budding Software Developer with a passion for d
 
   <p>
       <a href="#"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-327FC7.svg?logo=github&logoColor=white"></a>
+      <a href="#"><img alt="Notion" src="https://img.shields.io/badge/Notion-black.svg?logo=notion&logoColor=white"></a>
   </p>
 
   <h3>Software and Tools</h3>
