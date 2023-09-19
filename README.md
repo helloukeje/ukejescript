@@ -12,9 +12,6 @@ I am a Part-time Media Strategist and a budding Software Developer with a passio
       <a href="https://github.com/ukejescript?tab=repositories&sort=stargazers">
          <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/ukejescript?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
    </p>
-
-  <h3>😂 Pronouns</h3>
-  He/Him 
   
   <h2>Tools I Use</h2>
   I'm well-versed in utilizing various tools and frameworks while I'm still learning some, including: 
