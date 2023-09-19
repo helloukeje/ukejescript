@@ -13,12 +13,13 @@ I am a Part-time Media Strategist and a budding Software Developer with a passio
          <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/ukejescript?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
    </p>
   
-  <h3>Some tools I use and currently learning</h3>
+  <h2>Some of my favourite tools</h2>
   I'm well-versed in utilizing various tools and frameworks while I'm still learning some, including: 
   
   <!-- Some badges are from https://github.com/Ileriayo/markdown-badges -->
 
-  * <b>Programming and Markup Languages</b> ⇨ <a href="https://github.com/search?q=user%3Aukejescript+language%3Abash"><img alt="Bash" src="https://img.shields.io/badge/Bash-121011.svg?logo=gnu-bash&logoColor=white"></a>
+  * <h3><b>Programming and Markup Languages</b></h3> ↓
+  <a href="https://github.com/search?q=user%3Aukejescript+language%3Abash"><img alt="Bash" src="https://img.shields.io/badge/Bash-121011.svg?logo=gnu-bash&logoColor=white"></a>
       <a href="https://github.com/search?q=user%3Aukejescript+language%3Ac"><img alt="C" src="https://custom-icon-badges.demolab.com/badge/C-03599C.svg?logo=c-in-hexagon&logoColor=white"></a>
       <a href="https://github.com/search?q=user%3Aukejescript+language%3Acss"><img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&logoColor=white"></a>
       <a href="https://github.com/search?q=user%3Aukejescript+language%3Ahtml"><img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white"></a>
