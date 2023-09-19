@@ -1,4 +1,4 @@
-<h1>Hey👋🏾, I'm Miracle Ukeje!</h1>
+<h1>Hello, geeks! 👋🏾</h1>
 
 **`Digital Craftsman (Budding Software Developer, & Media Strategist)`**
 
@@ -13,6 +13,9 @@ Part-time Media Strategist and a budding Software Developer with a passion for d
          <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/ukejescript?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
    </p>
 
+  <h3>😂Pronouns</h3>
+  He/Him 
+  
   <h2>My Favorite Tools</h2>
   <!-- Some badges are from https://github.com/Ileriayo/markdown-badges -->
 
