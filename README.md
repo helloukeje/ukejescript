@@ -1,4 +1,4 @@
-<h1>Hello 👋🏾, I am Miracle Ukeje</h1>
+<h1>Hello, I am Miracle Ukeje</h1>
 
 **`Digital Craftsman (Budding Software Developer, & Media Strategist)`**
 
