@@ -3,7 +3,7 @@
 **`Digital Craftsman (Budding Software Developer, & Media Strategist)`**
 
 
-I am a Part-time Media Strategist and a budding Software Developer with a passion for digital innovation and creative marketing strategies. My journey into the world of software development started with a curiosity for technology and a desire to bring my ideas to life. I am constantly learning and exploring various programming languages and frameworks to build innovative and user-friendly applications. From front-end web development to back-end systems, I relish the challenge of turning complex problems into elegant solutions. Feel free to drop me a line at 👉🏽 <a href="mailto:mo.ukeje@gmail.com? subject=subject text">mo.ukeje@gmail.com</a> for coding collaorations or just to say hello and make a new tech friend! Let's create and connect! 🚀
+I am a Part-time Media Strategist and a budding Software Developer with a passion for digital innovation. My journey into the world of software development started with a curiosity for technology and a desire to bring my ideas to life. I am constantly learning and exploring various programming languages and frameworks to build innovative and user-friendly applications. From front-end web development to back-end systems, I relish the challenge of turning complex problems into elegant solutions. Feel free to drop me a line at 👉🏽 <a href="mailto:mo.ukeje@gmail.com? subject=subject text">mo.ukeje@gmail.com</a> for coding collaorations or just to say hello and make a new tech friend! Let's create and connect! 🚀
 
 
    <p align="left"> 
