@@ -13,12 +13,12 @@ I am a Part-time Media Strategist and a budding Software Developer with a passio
          <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/ukejescript?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
    </p>
   
-  <h2>Some of my favourite tools</h2>
+  <h2>Some of my favourite tools ↓</h2>
   I'm well-versed in utilizing various tools and frameworks while I'm still learning some, including: 
   
   <!-- Some badges are from https://github.com/Ileriayo/markdown-badges -->
 
-<h3><b>Programming and Markup Languages ↓</b></h3> 
+<h3><b>Programming and Markup Languages</b></h3> 
   <p>
      <a href="https://github.com/search?q=user%3Aukejescript+language%3Abash"><img alt="Bash" src="https://img.shields.io/badge/Bash-121011.svg?logo=gnu-bash&logoColor=white"></a>
       <a href="https://github.com/search?q=user%3Aukejescript+language%3Ac"><img alt="C" src="https://custom-icon-badges.demolab.com/badge/C-03599C.svg?logo=c-in-hexagon&logoColor=white"></a>
